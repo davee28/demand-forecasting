@@ -15,8 +15,8 @@ Forecasts total daily retail sales 28 days ahead so a shop can plan purchasing a
 
 Gradient Boosting reduces MAE by about 36% compared with the best simple baseline.
 
-![Actual vs predicted](images/forecast_vs_actual.png)
-![Feature importance](images/feature_importance.png)
+![Actual vs predicted](forecast_vs_actual.png)
+![Feature importance](feature_importance.png)
 
 ## Data
 [Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only) (Kaggle): 5 years of daily sales across 10 stores and 50 items. Download `train.csv` from Kaggle (not included here).
